@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="Run Android Gradle tasks"
 LABEL "com.github.actions.icon"="play"
 LABEL "com.github.actions.color"="green"
 
-LABEL "repository"="https://github.com/joseribamarsouzagomes/android-gradle-action"
+LABEL "repository"="https://github.com/joseribamarsouzagomes/gradle-action"
 LABEL "homepage"="http://github.com/actions"
 LABEL "maintainer"="Ribamar <jrsouzagomes@gmail.com>"
 
