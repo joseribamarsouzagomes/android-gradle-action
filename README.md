@@ -1,4 +1,4 @@
-# android-gradle-action
+# gradle-action
 
 Run Android Gradle tasks with GitHub Actions
 
@@ -17,7 +17,7 @@ workflow "Testing" {
 }
 
 action "Unit tests" {
-  uses = "joseribamarsouzagomes/android-gradle-action@master"
+  uses = "joseribamarsouzagomes/gradle-action@master"
   secrets = ["ANDROID_LICENCE"]
   args = "test"
 }
